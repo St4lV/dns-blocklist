@@ -1,1 +1,1 @@
-||ade.googlesyndication.com^
+||*.googlesyndication.com^
