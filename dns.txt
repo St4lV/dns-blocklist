@@ -1,5 +1,1 @@
-||rr1*.googlevideo.com^
-||rr2*.googlevideo.com^
-||rr3*.googlevideo.com^
-||rr4*.googlevideo.com^
-||rr5*.googlevideo.com^
+||ade.googlesyndication.com^
